@@ -6,8 +6,8 @@ Developer tools for networking, DNS, and modern web infrastructure.
 Aeon Studios builds high performance software tools designed for developers.
 
 ## Projects
-<br> Aeon-Net, a DNS resolver. <br />
-Aeon-Networking-Tools, Networking tools for Windows.
+Aeon-Net, a DNS resolver.
+<br> Aeon-Networking-Tools, Networking tools for Windows. <br />
 
 ## Getting Started
 Each project contains its own installation and usage instructions. Start with the repository you are interested in.
