@@ -2,18 +2,32 @@
 
 Developer tools for networking, DNS, and modern web infrastructure.
 
-## Overview
-Aeon Studios builds high performance software tools designed for developers.
+---
 
 ## Projects
-Aeon-Net, a DNS resolver.
-<br> Aeon-Networking-Tools, Networking tools for Windows. <br />
 
-## Getting Started
-Each project contains its own installation and usage instructions. Start with the repository you are interested in.
+* **Aeon-Net**
+  A compact and efficient DNS resolver.
+
+* **Aeon Networking Tools**
+  A collection of networking utilities for Windows.
+
+* **Aeon PhotoStruct**
+  A tool for developers to convert images into structured components, allowing full customization and export to HTML or JavaScript.
+
+---
 
 ## Contributing
-We are open to contributions, to contribute fork the repository, then create a branch called feature. After add a clear commit message, (No typos, spelling errors, etc.) Lastly create a PR.
+
+Contributions are welcome.
+
+1. Fork the repository
+2. Create a feature branch (`feature/<name>`)
+3. Write clear, well-structured commit messages
+4. Open a pull request with a detailed description
+
+---
 
 ## License
-MIT
+
+This organization uses the MIT License.
