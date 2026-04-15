@@ -1,18 +1,22 @@
 # Aeon Studios
 
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+![Projects](https://img.shields.io/badge/projects-3-blue.svg)
+
 Developer tools for networking, DNS, and modern web infrastructure.
 
 ---
 
 ## Projects
 
-* **Aeon-Net**
+- **Aeon-Net**  
   A compact and efficient DNS resolver.
 
-* **Aeon Networking Tools**
+- **Aeon Networking Tools**  
   A collection of networking utilities for Windows.
 
-* **Aeon PhotoStruct**
+- **Aeon PhotoStruct**  
   A tool for developers to convert images into structured components, allowing full customization and export to HTML or JavaScript.
 
 ---
@@ -30,4 +34,4 @@ Contributions are welcome.
 
 ## License
 
-This organization uses the MIT License.
+This organization uses the MIT License.  
